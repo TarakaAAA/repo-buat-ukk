@@ -1,6 +1,6 @@
 # Lelang Star
 
-Aplikasi ini adalah aplikasi lelang online untuk project UKK.
+Lelang Star adalah aplikasi lelang online agar proses lelang dapat dikenal oleh banyak masyarakat.
 
 Tujuan Proyek
 1. Menyediakan tempat lelang yang mudah dijangkau
