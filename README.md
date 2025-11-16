@@ -2,12 +2,12 @@
 
 Lelang Star adalah aplikasi lelang online agar proses lelang dapat dikenal oleh banyak masyarakat.
 
-Tujuan Proyek
+## Tujuan Proyek
 1. Menyediakan tempat lelang yang mudah dijangkau
 2. membuat proses lelang yang cepat
 3. mmepermudah proses lelang bagi orang awam
 
-Fitur pada aplikasi lelang
+## Fitur pada aplikasi lelang
 1. tombol favorit
 2. fitur keranjang
 3. tampilan yang mudah 
